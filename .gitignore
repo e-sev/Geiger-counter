@@ -1,6 +1,6 @@
 # Object files
 *.o
-.dep
+*.dep
 
 # Images
 *.eep
